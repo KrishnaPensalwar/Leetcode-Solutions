@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+## Math
+|  |
+| ------- |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
