@@ -8,6 +8,7 @@
 | [0075-sort-colors](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [1222-remove-covered-intervals](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1222-remove-covered-intervals) |
+| [1256-rank-transform-of-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2388-replace-elements-in-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 ## Sorting
@@ -15,6 +16,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [1222-remove-covered-intervals](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1222-remove-covered-intervals) |
+| [1256-rank-transform-of-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -27,6 +29,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [1256-rank-transform-of-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2388-replace-elements-in-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 ## Matrix
 |  |
