@@ -9,6 +9,7 @@
 | [0118-pascals-triangle](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [1222-remove-covered-intervals](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1386-shift-2d-grid](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1386-shift-2d-grid) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2388-replace-elements-in-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 ## Sorting
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [1386-shift-2d-grid](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1386-shift-2d-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1386-shift-2d-grid](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1386-shift-2d-grid) |
 | [2388-replace-elements-in-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 ## Number Theory
 |  |
