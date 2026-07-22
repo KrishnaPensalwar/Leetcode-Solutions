@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
