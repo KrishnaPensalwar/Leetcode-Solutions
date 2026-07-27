@@ -12,6 +12,7 @@
 | [1222-remove-covered-intervals](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1386-shift-2d-grid) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2388-replace-elements-in-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 ## Sorting
@@ -20,6 +21,7 @@
 | [0075-sort-colors](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [1222-remove-covered-intervals](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
