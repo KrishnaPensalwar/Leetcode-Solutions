@@ -15,6 +15,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2388-replace-elements-in-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
+| [4256-construct-uniform-parity-array-i](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [4256-construct-uniform-parity-array-i](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
