@@ -32,6 +32,7 @@
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [4245-count-commas-in-range](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/4245-count-commas-in-range) |
 | [4256-construct-uniform-parity-array-i](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
