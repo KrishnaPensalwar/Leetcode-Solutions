@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [4179-largest-even-number](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/4179-largest-even-number) |
 ## Math
 |  |
 | ------- |
