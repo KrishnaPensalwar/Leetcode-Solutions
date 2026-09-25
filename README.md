@@ -11,6 +11,7 @@
 | [0118-pascals-triangle](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1222-remove-covered-intervals](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1222-remove-covered-intervals) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1386-shift-2d-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
