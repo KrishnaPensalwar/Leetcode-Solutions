@@ -9,6 +9,7 @@
 | [0073-set-matrix-zeroes](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0349-intersection-of-two-arrays](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1222-remove-covered-intervals](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1386-shift-2d-grid) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1222-remove-covered-intervals](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -39,6 +41,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2388-replace-elements-in-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 ## Matrix
@@ -55,6 +58,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -68,6 +72,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
