@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4245-count-commas-in-range](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/4245-count-commas-in-range) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
