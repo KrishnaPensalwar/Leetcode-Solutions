@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -78,6 +79,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
