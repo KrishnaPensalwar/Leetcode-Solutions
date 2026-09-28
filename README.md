@@ -15,6 +15,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1386-shift-2d-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2388-replace-elements-in-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 | [4256-construct-uniform-parity-array-i](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
@@ -45,6 +46,7 @@
 | [0073-set-matrix-zeroes](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2388-replace-elements-in-an-array](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 ## Matrix
 |  |
@@ -75,6 +77,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,4 +98,12 @@
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
