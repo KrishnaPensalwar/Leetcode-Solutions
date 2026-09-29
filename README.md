@@ -84,6 +84,7 @@
 | [0069-sqrtx](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/KrishnaPensalwar/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
